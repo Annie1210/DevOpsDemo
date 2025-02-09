@@ -30,7 +30,7 @@ public class Login {
 //		DesiredCapabilities dc = new DesiredCapabilities(options);
 //		dc.setBrowserName("MicrosoftEdge");
 
-		//Chrome
+		//Chrome options
 
 		ChromeOptions options = new ChromeOptions(); 
 		DesiredCapabilities dc = new DesiredCapabilities(options); 
