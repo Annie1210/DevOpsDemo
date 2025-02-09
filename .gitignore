@@ -1,2 +1,6 @@
-result.xml
-fileIgnore.txt
+/target/
+.project
+.classpath
+.settings/
+/reports/
+/test-output/
